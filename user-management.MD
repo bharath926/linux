@@ -135,7 +135,7 @@ pubkeyauthentication yes
 
 **RESULT:** Only SSH Key ALLOWED
 
-### **How to Allow both Password Authentication**
+### **How to Allow Password Authentication on an AWS EC2 Instance which by default has SSH Key Authentication only**
 
 **Connect to the system using Putty and become a root user**
 
